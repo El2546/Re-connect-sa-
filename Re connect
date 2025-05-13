@@ -1,0 +1,84 @@
+# Re-connect-sa-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>RE Connect SA | Digital Marketing</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #0a0f1a;
+      color: #fff;
+    }
+    header {
+      text-align: center;
+      padding: 2rem 1rem;
+      background: #112;
+    }
+    header img {
+      width: 150px;
+      height: auto;
+    }
+    header h1 {
+      margin: 1rem 0 0.5rem;
+      color: #00aaff;
+      font-size: 2rem;
+    }
+    header p {
+      font-size: 1.1rem;
+      color: #ccc;
+    }
+    section {
+      padding: 2rem 1.5rem;
+      max-width: 800px;
+      margin: auto;
+    }
+    .contact {
+      background: #111c2e;
+      text-align: center;
+      padding: 2rem 1rem;
+    }
+    .contact h2 {
+      color: #00aaff;
+    }
+    .contact p {
+      font-size: 1.1rem;
+    }
+    footer {
+      text-align: center;
+      padding: 1rem;
+      background: #090f1a;
+      font-size: 0.9rem;
+      color: #aaa;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <img src="logo.png" alt="RE Connect SA Logo" />
+    <h1>RE CONNECT SA</h1>
+    <p>Online Digital Marketing Manager</p>
+  </header>
+
+  <section>
+    <h2>About Us</h2>
+    <p>
+      RE Connect SA is your trusted partner in digital marketing. We help businesses grow through targeted online campaigns, content strategies, and audience engagement. Whether you're starting up or scaling up, we reconnect your brand with the right market — powerfully and effectively.
+    </p>
+  </section>
+
+  <div class="contact">
+    <h2>Contact Us</h2>
+    <p>Phone: <strong>068 060 7619</strong></p>
+    <p>Email: <strong>info@reconnectsa.co.za</strong> (optional placeholder)</p>
+  </div>
+
+  <footer>
+    &copy; 2025 RE Connect SA. All rights reserved.
+  </footer>
+
+</body>
+</html>
